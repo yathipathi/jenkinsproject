@@ -1,4 +1,4 @@
-public class sample
+public class sample.java
 {
 	public static void main(String args[])
 	{
