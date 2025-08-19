@@ -1,7 +1,7 @@
-public class Sample
+public class sample
 {
 	public static void main(String args[])
 	{
-		system.out.print("YSD");
+		System.out.print("YSD");
 	}
 }
